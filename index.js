@@ -31,9 +31,9 @@ program
   .action(() => {
     // 使用 shell 完成
     shell.exec('npm run dev')
-    cp.on('close', () => {
-      console.log('启动项目成功')
-    })
+    console.log(`
+        项目启动成功
+    `)
 })
 
 // 解析命令行参数
