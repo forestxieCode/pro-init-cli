@@ -10,12 +10,11 @@
     "pro-init-cli": "./index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "1397798719@qq.com",
   "license": "ISC",
   "dependencies": {
     "commander": "^6.0.0",
     "git-clone": "^0.1.0",
-    "open": "^7.1.0",
     "shelljs": "^0.8.4"
   }
 }
