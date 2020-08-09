@@ -20,9 +20,7 @@ program
       // 成功后的提示
       console.log(`
                 创建项目：${name} 成功
-                cd ${name} 进入项目
-                mycli run  启动项目
-                mycli start 预览项目
+                pro-init-cli run  启动项目
             `)
     })
   })
